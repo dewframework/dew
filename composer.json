@@ -1,6 +1,6 @@
 {
-    "name": "gandasani/ganwork",
-    "description": "MicroFramework, focus on memory usage, speed and easy to learn.",
+    "name": "dew/dew",
+    "description": "MicroFramework, focus on low memory usage, speed and easy to learn.",
     "keywords": ["Microframework", "Framework", "PHP"],
     "license": "MIT",
     "type": "project",
