@@ -1,0 +1,1 @@
+delete "config.php" in compiled folder every change config

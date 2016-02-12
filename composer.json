@@ -1,0 +1,19 @@
+{
+    "name": "gandasani/ganwork",
+    "description": "MicroFramework, focus on memory usage, speed and easy to learn.",
+    "keywords": ["Microframework", "Framework", "PHP"],
+    "license": "MIT",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ganda Wenang Sani",
+            "email": "wenang.sani@gmail.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "1.1.*",
+        "philo/laravel-blade": "3.*",
+        "gandasani/medoo": "0.0.*",
+        "phpfastcache/phpfastcache": "3.0.*"
+    }
+}

@@ -1,0 +1,1 @@
+This folder for Views cache, do not delete
